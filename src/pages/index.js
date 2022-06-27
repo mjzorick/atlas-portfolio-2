@@ -17,6 +17,7 @@ import {
 import styles from 'styles/pages/_Home.module.scss';
 import { pageTitle } from 'utils';
 
+
 const postsPerPage = 3;
 
 export default function Page() {
